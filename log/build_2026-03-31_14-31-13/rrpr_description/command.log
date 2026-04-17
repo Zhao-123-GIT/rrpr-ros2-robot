@@ -1,0 +1,6 @@
+Invoking command in '/home/user/rrpr_ws/build/rrpr_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/user/rrpr_ws/src/rrpr_description -DCMAKE_INSTALL_PREFIX=/home/user/rrpr_ws/install/rrpr_description
+Invoked command in '/home/user/rrpr_ws/build/rrpr_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/user/rrpr_ws/src/rrpr_description -DCMAKE_INSTALL_PREFIX=/home/user/rrpr_ws/install/rrpr_description
+Invoking command in '/home/user/rrpr_ws/build/rrpr_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/rrpr_ws/build/rrpr_description -- -j4 -l4
+Invoked command in '/home/user/rrpr_ws/build/rrpr_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/user/rrpr_ws/build/rrpr_description -- -j4 -l4
+Invoking command in '/home/user/rrpr_ws/build/rrpr_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/rrpr_ws/build/rrpr_description
+Invoked command in '/home/user/rrpr_ws/build/rrpr_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/user/rrpr_ws/build/rrpr_description

@@ -1,0 +1,4 @@
+Invoking command in '/home/user/rrpr_ws/build/rrpr_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/rrpr_ws/install/rrpr_controller:/opt/ros/humble /usr/bin/cmake --build /home/user/rrpr_ws/build/rrpr_description -- -j4 -l4
+Invoked command in '/home/user/rrpr_ws/build/rrpr_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/rrpr_ws/install/rrpr_controller:/opt/ros/humble /usr/bin/cmake --build /home/user/rrpr_ws/build/rrpr_description -- -j4 -l4
+Invoking command in '/home/user/rrpr_ws/build/rrpr_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/rrpr_ws/install/rrpr_controller:/opt/ros/humble /usr/bin/cmake --install /home/user/rrpr_ws/build/rrpr_description
+Invoked command in '/home/user/rrpr_ws/build/rrpr_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/rrpr_ws/install/rrpr_controller:/opt/ros/humble /usr/bin/cmake --install /home/user/rrpr_ws/build/rrpr_description

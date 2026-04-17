@@ -1,0 +1,3 @@
+[console_scripts]
+controller = rrpr_controller.controller:main
+
